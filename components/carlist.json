@@ -1,0 +1,67 @@
+[
+    {
+        "brand": "ford",
+        "model": [
+            {
+            "name": "Mustang",
+            "url": "https://www.ford.com/cars/mustang/",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/2024-ford-mustang-gt-111-64e6608fce997.jpg?crop=0.617xw:0.464xh;0.0369xw,0.413xh&resize=1200:*"
+            },
+            {
+            "name": "f950",
+            "url": "https://www.ford.com/cars/mustang/",
+            "image": "https://i.pinimg.com/736x/8b/c6/46/8bc646853542b52af0aecb8c434fc741.jpg"
+            },
+            {
+            "name": "gt",
+            "url": "https://www.ford.com/cars/mustang/",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/2023-ford-gt-mk-iv-02-1670543667.jpg?crop=0.736xw:0.655xh;0.223xw,0.157xh&resize=1200:*"
+            }
+        ]
+    },
+    {
+        "brand": "bmw",
+        "model": [
+            {
+            "name": "g",
+            "url": "https://www.ford.com/cars/mustang/",
+            "image": "https://www.zero2turbo.com/wp-content/uploads/2021/11/G-POWER_G3M_G4M_Bi-TURBO_G8x_06-Large.jpg"
+            },
+            {
+            "name": "vision",
+            "url": "https://www.ford.com/cars/mustang/",
+            "image": "https://cdn.vox-cdn.com/thumbor/0mdaeOAs2eq0kkXiZLaHMoF5ceM=/0x0:1020x678/2000x1333/filters:focal(510x339:511x340)/cdn.vox-cdn.com/uploads/chorus_asset/file/13085695/m06-16_1258vlad-savov.0.0.1466150412.png"
+            }
+        ]
+    },
+    {
+        "brand": "mercedes",
+        "model": [
+            {
+            "name": "cla",
+            "url": "https://www.ford.com/cars/mustang/",
+            "image": "https://www.mercedes-benz.co.uk/content/united-kingdom/en/passengercars/models/coupe/c118-fl-23-1/overview/_jcr_content/root/responsivegrid/media_slider/media_slider_item/internal_video.component.damq1.3361268572597.jpg/mercedes-benz-cla-coupe-c118-highlights-videostill-3302x1858-02-2023.jpg"
+            },
+            {
+            "name": "slc",
+            "url": "https://www.ford.com/cars/mustang/",
+            "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1563183878/autoexpress/2016/04/dsc_2921.jpg"
+            }
+        ]
+    },
+    {
+        "brand": "audi",
+        "model": [
+            {
+            "name": "a4",
+            "url": "https://www.ford.com/cars/mustang/",
+            "image": "https://hips.hearstapps.com/hmg-prod/images/2024-audi-a4-103-64aefe768be8e.jpg?crop=0.395xw:0.296xh;0.304xw,0.375xh&resize=640:*"
+            },
+            {
+            "name": "aime",
+            "url": "https://www.ford.com/cars/mustang/",
+            "image": "https://autodesignmagazine.com/wp-content/uploads/2019/04/2019041507_Audi_AIME.jpg"
+            }
+        ]
+    }
+]
